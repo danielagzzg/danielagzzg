@@ -23,7 +23,7 @@
 			<td>Mockup de una app para Helados Sultana, contribuyendo su comunicación digital, haciendola más atractiva y facilitando la compra al cliente .</td>
 		</tr>
     <tr>
-			<th span="row"><a href="https://github.com/danielagzzg/simuladorF1">Simulación de F1 en mathlab</a></th>
+			<th span="row"><a href="https://github.com/danielagzzg/simuladorF1">Simulaci##ón de F1 en mathlab</a></th>
 			<td>Creamos un simulador de pista de F1 en Mathlab, donde se puede modificar velocidades en una curva para ver cuanto puede ser su velocidad máxima sin salirse de la ruta.</td>
 		</tr>
     <tr>
@@ -34,7 +34,13 @@
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->
-  
+
+
+#### Lenguajes de programación
+- Python
+- C++
+- Mathlab
+- Ensamblador
 
 <!---
 danielagzzg/danielagzzg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
