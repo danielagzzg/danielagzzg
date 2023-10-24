@@ -23,7 +23,7 @@
 			<td>Mockup de una app para Helados Sultana, contribuyendo su comunicación digital, haciendola más atractiva y facilitando la compra al cliente .</td>
 		</tr>
     <tr>
-			<th span="row"><a href="https://github.com/danielagzzg/simuladorF1">Simulaci##ón de F1 en mathlab</a></th>
+			<th span="row"><a href="https://github.com/danielagzzg/simuladorF1">Simulación de F1 en mathlab</a></th>
 			<td>Creamos un simulador de pista de F1 en Mathlab, donde se puede modificar velocidades en una curva para ver cuanto puede ser su velocidad máxima sin salirse de la ruta.</td>
 		</tr>
     <tr>
